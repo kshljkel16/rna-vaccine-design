@@ -1,0 +1,11 @@
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.pkl
+data/
+checkpoints/
+__pycache__/
+*.log
+.ipynb_checkpoints/
